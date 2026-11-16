@@ -1,0 +1,15 @@
+a.nav-link{
+  color:white;
+}
+a.nav-link:hover{
+  color: #0d6efd;
+}
+.carousel-item img{
+  min-height: 200px;
+  height: 500px;
+  width: 100%;
+  object-fit: cover;
+}
+footer .nav{
+  flex-direction: column;
+}
